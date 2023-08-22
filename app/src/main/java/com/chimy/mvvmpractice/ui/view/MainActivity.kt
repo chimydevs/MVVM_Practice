@@ -1,11 +1,11 @@
-package com.chimy.mvvmpractice.view
+package com.chimy.mvvmpractice.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
 import com.chimy.mvvmpractice.databinding.ActivityMainBinding
-import com.chimy.mvvmpractice.viewmodel.quoteViewModel
+import com.chimy.mvvmpractice.ui.viewmodel.quoteViewModel
 
 class MainActivity : AppCompatActivity() {
 

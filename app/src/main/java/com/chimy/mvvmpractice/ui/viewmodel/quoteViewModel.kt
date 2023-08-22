@@ -1,9 +1,9 @@
-package com.chimy.mvvmpractice.viewmodel
+package com.chimy.mvvmpractice.ui.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.chimy.mvvmpractice.model.QuoteModel
-import com.chimy.mvvmpractice.model.QuoteProvider
+import com.chimy.mvvmpractice.data.model.QuoteModel
+import com.chimy.mvvmpractice.data.model.QuoteProvider
 
 class quoteViewModel: ViewModel() {
 

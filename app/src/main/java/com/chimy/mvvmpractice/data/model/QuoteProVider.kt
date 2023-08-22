@@ -1,4 +1,4 @@
-package com.chimy.mvvmpractice.model
+package com.chimy.mvvmpractice.data.model
 
 class QuoteProvider {
     companion object {
